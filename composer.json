@@ -21,7 +21,7 @@
     },
     "require": {
         "php": ">=5.4.9",
-        "axelitus/base": ">=0.2.1"
+        "axelitus/base": "dev-develop"
     },
     "require-dev": {
         "phpunit/phpunit": "3.8.*",
