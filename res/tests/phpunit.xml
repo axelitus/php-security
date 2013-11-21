@@ -5,7 +5,7 @@
         <server name="tests_path">res/tests</server>
     </php>
     <testsuites>
-        <testsuite name="axelitus/base">
+        <testsuite name="axelitus/security">
             <directory suffix=".php">axelitus/Security</directory>
         </testsuite>
     </testsuites>
